@@ -1,0 +1,11 @@
+total 4.0K
+-rwxrwxrwx 1 juancho juancho    0 Apr 28 22:33 abc
+-rwxrwxrwx 1 juancho juancho    0 Apr 28 22:33 datos1
+-rwxrwxrwx 1 juancho juancho    0 Apr 28 22:33 datos123
+-rwxrwxrwx 1 juancho juancho    0 Apr 28 22:33 dot.txt
+-rwxrwxrwx 1 juancho juancho    0 Apr 28 22:33 dot2.txt
+-rwxrwxrwx 1 juancho juancho   19 Apr 28 23:10 error.txt
+-rwxrwxrwx 1 juancho juancho    0 Apr 28 22:33 file.tct
+-rwxrwxrwx 1 juancho juancho    0 Apr 28 22:33 index.html
+-rwxrwxrwx 1 juancho juancho    0 Apr 28 23:14 output.txt
+-rwxrwxrwx 1 juancho juancho 1.9K Apr 28 21:59 principios_de_usabilidad.md
